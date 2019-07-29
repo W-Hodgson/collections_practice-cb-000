@@ -45,3 +45,5 @@ def sum_array(array)
     sum + n
   end
 end
+
+def
