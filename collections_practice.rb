@@ -28,6 +28,8 @@ end
 def kesha_maker(array)
   new_array = []
   array.each do |element|
-
+    element[2] = $
+    new_array << element
   end
+  new_array
 end
